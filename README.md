@@ -1,4 +1,4 @@
-# Clean Culter
+# Clean Cutter
 
 A simple Node.js script to organize files in a directory by their file extensions. Each file is moved into a folder named after its extension (e.g., `.txt` files go into a `TXT` folder). JavaScript (`.js`) and JSON (`.json`) files are skipped from being moved, and a message is logged for them.
 
